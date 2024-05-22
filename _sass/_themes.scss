@@ -7,8 +7,15 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$purple-color};
-  --global-hover-color: #{$purple-color};
+
+  // default
+  // --global-theme-color: #{$purple-color};
+  // --global-hover-color: #{$purple-color};
+
+  // Vinod
+  --global-theme-color: #{$vinod-color};
+  --global-hover-color: #{$vinod-color};
+
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
@@ -30,6 +37,15 @@
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
   --global-danger-block-title: #c00;
+  --global-notice-bg-color: #c00;
+
+  // Font family
+    // default 
+    // --global-font-family: Inria Sans, sans-serif;
+  --global-font-family: Open Sans, sans-serif; // 'Nunito', sans-serif;
+
+  --global-notice-bg-color: #215d42;
+  --global-notice-text-color: #fff;
 
   #light-toggle-system {
     padding-left: 10px;
@@ -67,6 +83,9 @@ html[data-theme="dark"] {
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
   --global-card-bg-color: #{$grey-900};
+
+  --global-notice-bg-color: #c00;
+  --global-notice-text-color: #fff;
 
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
