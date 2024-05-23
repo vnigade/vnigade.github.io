@@ -23,7 +23,7 @@ During my PhD at VU Amsterdam, I focused on developing a DL inference serving sy
 I received my Master's in Parallel and Distributed Computer Systems [(PDCS)](https://masters.vu.nl/en/programmes/parallel-distributed-computer-systems/index.aspx) from VU Amsterdam with *Cum Laude* honors. I have around five years of industrial experience in computer systems, specifically in distributed and data storage systems.
 
 <!-- <div class="alert alert-info">
-  <strong>Note:</strong> I am actively looking for research positions, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/files/CV_Vinod_Nigade.pdf">CV</a>.
+  <strong>Note:</strong> I am actively looking for a research position, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/files/CV_Vinod_Nigade.pdf">CV</a>.
 </div> -->
 
 <p><strong><span class="notice-highlight">&nbsp;Note:&nbsp;</span></strong> I am actively looking for research positions, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/assets/pdf/CV_Vinod_Nigade.pdf">CV</a>. </p>
