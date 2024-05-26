@@ -26,4 +26,4 @@ I received my Master's in Parallel and Distributed Computer Systems [(PDCS)](htt
   <strong>Note:</strong> I am actively looking for a research position, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/files/CV_Vinod_Nigade.pdf">CV</a>.
 </div> -->
 
-<p><strong><span class="notice-highlight">&nbsp;Note:&nbsp;</span></strong> I am actively looking for research positions, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/assets/pdf/CV_Vinod_Nigade.pdf">CV</a>. </p>
+<p><strong><span class="notice-highlight">&nbsp;Note:&nbsp;</span></strong> I am actively looking for a research position, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/assets/pdf/CV_Vinod_Nigade.pdf">CV</a>. </p>
