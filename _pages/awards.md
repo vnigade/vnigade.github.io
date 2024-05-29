@@ -8,6 +8,11 @@ nav_order: 3
 ---
 
 * <div style="display: flex; justify-content: space-between;">
+        <span style="font-size: larger;"><a href="https://asci.school">Best PhD Thesis Award</a>, <strong>ASCI School</strong></span> 
+        <span style="font-size: larger;">2023</span>
+    </div>
+<br>
+* <div style="display: flex; justify-content: space-between;">
         <span style="font-size: larger;"><a href="http://2022.rtss.org/awards/">Outstanding Paper Award</a>, <strong>IEEE RTSS</strong></span>
         <span style="font-size: larger;">2022</span>
     </div>
