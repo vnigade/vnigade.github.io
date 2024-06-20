@@ -106,7 +106,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Computer Systems | Distributed Systems | ML Systems | Distributed Intermittent Systems
+  Computer Systems | Distributed Systems | ML Systems | Video Analytics | Edge Computing | DNN Inference Serving
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
