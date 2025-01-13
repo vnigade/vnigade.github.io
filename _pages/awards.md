@@ -8,6 +8,11 @@ nav_order: 3
 ---
 
 * <div style="display: flex; justify-content: space-between;">
+        <span style="font-size: larger;"><a href="https://2024.ieee-iscc.org/">Best Paper Award (second place) </a>, <strong>IEEE ISCC</strong> (*as a co-author)</span> 
+        <span style="font-size: larger;">2023</span>
+    </div>
+<br>
+* <div style="display: flex; justify-content: space-between;">
         <span style="font-size: larger;"><a href="https://asci.school">Best PhD Thesis Award</a>, <strong>ASCI Research School</strong></span> 
         <span style="font-size: larger;">2023</span>
     </div>

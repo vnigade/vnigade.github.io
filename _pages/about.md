@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher @ VU Amsterdam, the Netherlands
+subtitle: ML Performance Engineer @ eBay, Amsterdam
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently working as a postdoctoral researcher in the [HPDC group](https://www.vuhpdc.net) at VU Amsterdam, under the guidance of [Prof. Henri Bal](https://www.vuhpdc.net/henri-bal/) and [Prof. Lin Wang](https://linwang.info/) (Paderborn University, Germany). My research focuses on developing efficient \[networked\] systems for machine learning (ML) \[inference\], with a growing interest in Tiny and Edge ML—aiming to bring AI into users' hands.
+I am a Machine Learning Performance Engineer at eBay, Amsterdam. Prior to this, I was a postdoctoral researcher in the [HPDC group](https://www.vuhpdc.net) at VU Amsterdam. My research focuses on developing high performance and efficient \[networked\] systems for machine learning (ML).
 
 I received my PhD and MSc *cum laude* from VU Amsterdam. During my PhD, I focused on developing a DL inference serving system for latency-sensitive video analytics applications. This involved designing networked systems that leveraged various modern computing platforms, including end devices, the edge, and the cloud. 
 
@@ -26,5 +26,3 @@ I have around five years of industrial experience in computer systems, specifica
 <!-- <div class="alert alert-info">
   <strong>Note:</strong> I am actively looking for a research position, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/files/CV_Vinod_Nigade.pdf">CV</a>.
 </div> -->
-
-<p><strong><span class="notice-highlight">&nbsp;Note:&nbsp;</span></strong> I am actively looking for a research position, preferably in industrial labs. However, I am also open to academic and deep-tech startup positions. Here is my <a href="http://vnigade.github.io/assets/pdf/CV_Vinod_Nigade.pdf">CV</a>. </p>

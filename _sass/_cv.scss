@@ -213,3 +213,38 @@ ul.timeline li::before {
      color: var(--global-text-color);
 }
 */
+
+
+.cv-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.cv-icon {
+  position: relative;
+  display: inline-block;
+  width: 40px; /* Adjust size of icon */
+  height: 35px;
+  margin-right: 8px;
+}
+
+.cv-icon .fa-file {
+  font-size: 35px; /* Icon size */
+  color: #007bff;
+}
+
+.cv-icon .cv-text {
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px; /* Adjust text size */
+  font-weight: bold;
+  color: white;
+  font-family: Arial, sans-serif;
+  pointer-events: none; /* Ensure text doesn't interfere with the link click */
+}
+
