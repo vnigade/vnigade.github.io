@@ -23,9 +23,9 @@ I have around five years of industrial experience in computer systems, specifica
 <div>
   <br>
       <h5>
-        <b>Reviewer</b>
+        <b>Reviewer/PC</b>
       </h5>
-      IEEE Transactions on Services Computing (2025), IEEE/ACM UCC INTEL4EC (2023, 2024), NWO ICT Open (2023)
+     ACM Web Conference (formerly, WWW) (2026), IEEE Transactions on Services Computing (2025), IEEE/ACM UCC INTEL4EC (2023, 2024), NWO ICT Open (2023)
   <br>
 </div>
 
