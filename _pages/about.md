@@ -24,8 +24,8 @@ I have around five years of industrial experience in computer systems, specifica
   <br>
       <h5><b>Program Committee / Reviewer</b></h5>
 <ul>
-  <li>ACM Web Conference (formerly WWW), 2026</li>
-  <li>IEEE Transactions on Services Computing, 2025</li>
+  <li>[ACM Web Conference](https://www2026.thewebconf.org) (formerly WWW), 2026</li>
+  <li>[IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386), 2025</li>
   <li>IEEE/ACM UCC INTEL4EC, 2023–2024</li>
   <li>NWO ICT Open, 2023</li>
 </ul>
