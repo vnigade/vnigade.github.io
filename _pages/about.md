@@ -9,7 +9,7 @@ profile:
   image: vinod_nigade.png
   image_circular: false # crops the image to make it circular
   # more_info: >
-  # <p> Computer Systems | Distributed Systems | ML Systems | Distributed Intermittent Systems </p>
+  # <p> Computer Systems | Distributed ka Systems | ML Systems | Distributed Intermittent Systems </p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,10 +24,10 @@ I have around five years of industrial experience in computer systems, specifica
   <br>
       <h5><b>Program Committee / Reviewer</b></h5>
 <ul>
-  <li>DATE, 2027 (Invitation Accepted)</li>
+  <li><a href="https://www.date-conference.com/sites/date26/files/2026-04/DATE2027-Call-for-Papers-short.pdf">DATE</a>, 2027 (Invitation Accepted)</li>
   <li>eBay Annual AI Week, 2026 (Track Lead for MLSys)</li>
   <li><a href="https://www2026.thewebconf.org">ACM Web Conference</a> (formerly WWW), 2026</li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386">IEEE Transactions on Services Computing</a>, 2025</li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386">IEEE Transactions on Services Computing</a>, 2025-2026</li>
   <li>IEEE/ACM UCC INTEL4EC, 2023–2024</li>
   <li>NWO ICT Open, 2023</li>
 </ul>
