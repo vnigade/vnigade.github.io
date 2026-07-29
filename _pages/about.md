@@ -24,11 +24,11 @@ I have around five years of industrial experience in computer systems, specifica
   <br>
       <h5><b>Program Committee / Reviewer</b></h5>
 <ul>
-  <li><a href="https://www.date-conference.com/sites/date26/files/2026-04/DATE2027-Call-for-Papers-short.pdf">DATE</a>, 2027 (Invitation Accepted)</li>
+  <li><a href="https://www.date-conference.com/sites/date26/files/2026-04/DATE2027-Call-for-Papers-short.pdf">DATE 2027</a>(Invitation Accepted)</li>
   <li>eBay Annual AI Week, 2026 (Track Lead for MLSys)</li>
   <li><a href="https://www2026.thewebconf.org">ACM Web Conference</a> (formerly WWW), 2026</li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386">IEEE Transactions on Services Computing</a>, 2025-2026</li>
-  <li>IEEE/ACM UCC INTEL4EC, 2023–2024</li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386">IEEE Transactions on Services Computing</a>, 2025, 2026</li>
+  <li>IEEE/ACM UCC INTEL4EC, 2023, 2024</li>
   <li>NWO ICT Open, 2023</li>
 </ul>
   <br>
